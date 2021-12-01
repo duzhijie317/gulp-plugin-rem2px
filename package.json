@@ -1,0 +1,28 @@
+{
+  "name": "gulp-plugin-rem2px",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "gulp plugin for rem2px",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duzhijie317/gulp-plugin-rem2px.git"
+  },
+  "keywords": [
+    "rem",
+    "gulp",
+    "rem2px"
+  ],
+  "author": "duzhijie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duzhijie317/gulp-plugin-rem2px/issues"
+  },
+  "homepage": "https://github.com/duzhijie317/gulp-plugin-rem2px#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "rework": "^1.0.1",
+    "rework-visit": "^1.0.0",
+    "through2": "^4.0.2"
+  }
+}
